@@ -2,6 +2,16 @@
 
 Türkiye'deki DPI (Deep Packet Inspection) tabanlı internet engellemelerini bypass eden Windows uygulaması. Discord, Twitter, Instagram ve diğer engellenmiş servislere VPN kullanmadan erişim sağlar.
 
+## Windows SmartScreen Uyarısı
+
+İlk açışta "Windows kişisel bilgisayarınızı korudu" uyarısı gelebilir. Bu uygulama henüz Microsoft veritabanında yeterince yer almadığı için normal bir Windows davranışıdır.
+
+**Çalıştırmak için:**
+1. **Ek bilgi** linkine tıkla
+2. **Yine de çalıştır** butonuna bas
+
+Tool yeterince indirildikçe veya kalıcı code signing certificate alındığında bu uyarı kaybolacaktır.
+
 ## Bu Sürümde Neler Var
 
 ### 🚇 Selective WARP Tunnel
