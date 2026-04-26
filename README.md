@@ -163,3 +163,13 @@ Bu uygulama eğitim ve kişisel kullanım amaçlıdır. Kullanıcı kendi yerel 
 ## Geri Bildirim
 
 Sorun yaşıyorsanız, başka bir ISP'de test ettiyseniz veya öneri varsa **Issues** sekmesinden bildirin.
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-aendirr.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aendirr.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aendirr)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aendirr)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aendirr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iletisimaendirr@gmail.com)
+
+</div>
